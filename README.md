@@ -2,9 +2,11 @@
 
 Spam messages are a growing challenge in digital communication, leading to security threats and unnecessary distractions. An effective spam detection system can help mitigate these issues.
 
+
 📌 PROBLEM STATEMENT
 
 With the increasing volume of spam messages, users face difficulties in filtering out unwanted content. Traditional spam filters often struggle with evolving spam patterns, necessitating a machine learning-based solution.
+
 
 📜 OBJECTIVE
 
@@ -15,6 +17,7 @@ With the increasing volume of spam messages, users face difficulties in filterin
    3️. The ML model classifies the message as spam or not spam.
    
    4️. The result is sent back to the webpage and displayed.
+
 
 🛠️ TECH STACK
 
