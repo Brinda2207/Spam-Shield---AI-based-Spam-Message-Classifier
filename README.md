@@ -1,15 +1,20 @@
-# Spam-Shield---AI-based-Spam-Message-Classifier
+INTRODUCTION
+Spam messages are a growing challenge in digital communication, leading to security threats and unnecessary distractions. An effective spam detection system can help mitigate these issues.
 
-Spam Shield is an AI-powered spam message classifier that uses machine learning techniques to detect and filter spam messages effectively. This project leverages Natural Language Processing (NLP) and classification models to distinguish between spam and non-spam messages.
+PROBLEM STATEMENT
+With the increasing volume of spam messages, users face difficulties in filtering out unwanted content. Traditional spam filters often struggle with evolving spam patterns, necessitating a machine learning-based solution.
 
-## Features
-✅ AI-based spam detection  
-✅ Utilizes NLP for text analysis  
-✅ Machine learning with Scikit-learn  
-✅ Preprocessed SMS spam dataset for training  
-✅ Simple frontend with HTML & CSS  
+OBJECTIVE
+   1️. User enters a message on the webpage (Frontend).
+   2️. The message is sent to the backend via an API request.
+   3️. The ML model classifies the message as spam or not spam.
+   4️. The result is sent back to the webpage and displayed.
 
-## Tech Stack
-- **Programming Language:** Python
-- **Libraries & Tools:** Pandas, NumPy, NLTK, Scikit-learn
-- **Frontend:** HTML, CSS
+TECH STACK
+Frontend: HTML, CSS, JavaScript 
+Backend: Python
+Libraries: Pandas, NumPy, NLTK, Scikit-learn, Matplotlib 
+Dataset: SMS Spam Collection (from Kaggle)
+Development Tools: Jupyter Notebook, VS Code
+
+
