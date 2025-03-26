@@ -22,9 +22,13 @@ With the increasing volume of spam messages, users face difficulties in filterin
 🛠️ TECH STACK
 
 Frontend: HTML, CSS, JavaScript 
+
 Backend: Python
+
 Libraries: Pandas, NumPy, NLTK, Scikit-learn, Matplotlib 
+
 Dataset: SMS Spam Collection (from Kaggle)
+
 Development Tools: Jupyter Notebook, VS Code
 
 
