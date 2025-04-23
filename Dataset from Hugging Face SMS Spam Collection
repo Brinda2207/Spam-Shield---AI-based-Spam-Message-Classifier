@@ -1,0 +1,3 @@
+from datasets import load_dataset
+
+ds = load_dataset("autoevaluate/autoeval-staging-eval-project-sms_spam-216c1ded-12215630")
